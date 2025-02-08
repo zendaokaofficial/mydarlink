@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '../../vendor/ryangjchandler/filament-progress-column/resources/dist/progress.css'
